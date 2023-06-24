@@ -120,7 +120,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Vanam2002/DQ-the-file-donor-bot">
+<a href="https://heroku.com/deploy?template=https://github.com/akmonsterprogrammer/DQ-the-file-donor-bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -167,7 +167,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/Vanam2002/DQ-the-file-donor-bot/tree/web">
+<a href="https://render.com/deploy?repo=https://github.com/akmonsterprogrammer/DQ-the-file-donor-bot/tree/web">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
