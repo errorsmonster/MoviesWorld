@@ -195,11 +195,11 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 𝙷𝚊𝚙𝚙𝚢 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍 :  <a href="https://t.me/+Z1yPQ4qCxoZjNGY1">Tᴏᴜᴄʜ</a>
+🔅 𝙷𝚊𝚙𝚙𝚢 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍 :  <a href="https://t.me/All_Movies_Group_Movie">Tᴏᴜᴄʜ</a>
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-🔆 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+Z1yPQ4qCxoZjNGY1)
+🔆 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/All_Movies_Group_Movie)
 🌟 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/The_Publishers)
 =========== • ✠ • ===========</b>"""
 
