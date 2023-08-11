@@ -6,7 +6,7 @@ else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /DQTheFileDonorBot
 fi
-cd /DQTheFileDonorBot
+cd /DQTheFileDonor/bot.py
 pip install --upgrade pip
 pip3 install -U -r requirements.txt
 echo "Starting DQ-The-File-Donor...."
