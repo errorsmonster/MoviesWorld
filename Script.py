@@ -211,7 +211,6 @@ IMDb Data:
 🎭 𝙶𝚎𝚗𝚛𝚎𝚜: {genres}
 📆 𝚈𝚎𝚊𝚛: <a href={url}/releaseinfo>{year}</a>
 🌟 𝚁𝚊𝚝𝚒𝚗𝚐: <a href={url}/ratings>{rating}</a> / 10</b>"""
-"How To Download 👇\nhttps://t.me/The_Publishers/203"
 
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
