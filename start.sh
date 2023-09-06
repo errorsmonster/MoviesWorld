@@ -4,7 +4,7 @@ then
   git clone https://github.com/akmonsterprogrammer/DQ-the-file-donor-bot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /DQTheFileDonorBot
+  git clone $UPSTREAM_REPO /DQ-the-file-donor-bot
 fi
 cd /DQTheFileDonorBot
 pip install --upgrade pip
