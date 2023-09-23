@@ -70,7 +70,7 @@ async def pm_text(bot, message):
     user_id = message.from_user.id
     if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
     if user_id in ADMINS: return # ignore admins
-    await message.reply_text("<b>Please Search This Group 👉 https://t.me/All_Movies_Group_Movie\n\nHow To Download 👇 \nhttps://t.me/The_Publishers/203\n𝟏 - 𝐄𝐧𝐭𝐞𝐫 𝐓𝐡𝐞 𝐌𝐨𝐯𝐢𝐞 𝐍𝐚𝐦𝐞 𝐂𝐨𝐫𝐫𝐞𝐜𝐭.\n𝟐 - 𝐂𝐥𝐢𝐜𝐤 𝐭𝐡𝐞 𝐋𝐢𝐧𝐤 𝐀𝐧𝐝 𝐆𝐨 𝐭𝐨 𝐁𝐫𝐨𝐰𝐬𝐞𝐫\n𝟑 - 𝐂𝐥𝐢𝐜𝐤 𝗜 𝗔𝗺 𝗡𝗼𝘁 𝗮 𝗥𝗼𝗯𝗼𝘁 \n𝟰 - 𝐖𝐚𝐢𝐭𝐢𝐧𝐠 𝐟𝐨𝐫 𝟏𝟎 𝐭𝐨 𝟏𝟓 𝐒𝐞𝐜𝐨𝐧𝐝𝐬 𝐭𝐡𝐞𝐧 𝐒𝐜𝐫𝐨𝐥𝐥 𝐃𝐨𝐰𝐧 \n𝟓 - 𝐂𝐥𝐢𝐜𝐤 𝗢𝗽𝗲𝗻 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗲 2 𝐓𝐢𝐦𝐞𝐬 \n𝟔 - 𝐒𝐜𝐫𝐨𝐥𝐥 𝐃𝐨𝐰𝐧 𝐖𝐚𝐢𝐭 𝐅𝐨𝐫 𝟓 𝐬𝐞𝐜𝐨𝐧𝐝 𝐚𝐧𝐝 𝐂𝐥𝐢𝐜𝐤 𝗚𝗲𝘁 𝗟𝗶𝗻𝗸</b>")
+    await message.reply_text("<b>Please Search This Group 👉 https://t.me/+Z1yPQ4qCxoZjNGY1</b>")
     await bot.send_message(
         chat_id=LOG_CHANNEL,
         text=f"<b>#𝐏𝐌_𝐌𝐒𝐆\n\nNᴀᴍᴇ : {user}\n\nID : {user_id}\n\nMᴇssᴀɢᴇ : {content}</b>"
