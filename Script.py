@@ -195,11 +195,10 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 𝙷𝚊𝚙𝚙𝚢 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍 :  <a href="https://t.me/+n4cANroTtBQxODY1">Tᴏᴜᴄʜ</a>
+🔅 𝙷𝚊𝚙𝚙𝚢 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍 :  <a href="https://t.me/The_Publishers_Returns">Tᴏᴜᴄʜ</a>
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-🌟 ᴍɪɴᴇ ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ] (https://t.me/The_Publishers_Returns)
 🔆 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+n4cANroTtBQxODY1)
 🌟 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/The_Movie_Publishers)
 =========== • ✠ • ===========</b>"""
